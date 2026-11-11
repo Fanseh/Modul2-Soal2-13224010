@@ -14,12 +14,12 @@
 int main(){
     int x = 17;
     char m[x];
-    int t[x];
+    //int t[x];
 
     scanf("%[^\n]s", m);
     printf("NONE");
     //for(int i = 0; i<x; i++){
-        printf("%s", m[1]);
+       // printf("%s", m[1]);
    // }
 
     //for (int i = 0; i < x; i++) {
