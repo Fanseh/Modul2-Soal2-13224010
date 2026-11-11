@@ -14,27 +14,6 @@
 int main(){
     int x = 17;
     char m[x];
-    //int t[x];
-
     scanf("%[^\n]s", m);
     printf("NONE");
-    //for(int i = 0; i<x; i++){
-       // printf("%s", m[1]);
-   // }
-
-    //for (int i = 0; i < x; i++) {
-      //  scanf("%d", &m[i]);
-   // }
-    //printf("You entered:\n");
-  //  for (int i = 0; i < x; i++) {
-       // printf("%d ", m[i]);
-  //  }
-   // for(int i = 0; i<x;i++){
-       // if(m[i-1] < m[i] && m[i-1] < m[i-2]){
-            
-       // }
-   // }
-    
-    
-
 }
